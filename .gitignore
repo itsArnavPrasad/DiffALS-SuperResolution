@@ -1,0 +1,5 @@
+venv/
+data/
+previous_checkpoints_images/
+progress_images/
+checkpoints/
